@@ -1,0 +1,30 @@
+header h1{
+	
+	color:blue;
+	background-color: black;
+	text-align: center;
+	margin-top:-10px;
+
+	
+}
+a:hover{
+	color: white;
+}
+#head{
+	float: left;
+	max-width: 100%;
+	padding: 1em;
+}
+#head ul{
+	list-style-type: none;
+	padding: 1em;
+	font-size: 40px;
+	color:blue;
+    margin-left: 20px;
+}
+body{
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}

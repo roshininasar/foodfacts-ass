@@ -1,0 +1,44 @@
+body{
+    background-color:pink;
+    font: 10px sans-serif;
+  }
+ 
+.legend {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size:20px;;
+    }
+.axis {
+  font: 10px sans-serif;
+  font-size: 10px;
+}
+
+.axis path,
+.axis line {
+  fill:none;
+  stroke: red;
+}
+
+
+header h1{  
+  color:blue;
+  background-color: black;
+  text-align: center;
+  margin-top:-10px;
+
+  
+}
+a:hover{
+  color: white;
+}
+#head{
+  float: center;
+  max-width: 100%;
+  padding: 1em;
+}
+#h ul,li{
+  list-style-type: none;
+  padding: 0;
+  font-size: 10px;
+  color:blue;
+    margin-left: 20px;
+    }

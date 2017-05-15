@@ -1,0 +1,39 @@
+ body {
+  font: 10px sans-serif;
+  background: pink;
+}
+.x.axis path {
+    display: none;
+}
+.line {
+    fill: none;
+    stroke-width: 3px;
+}
+path {
+  stroke: black;
+  stroke-width: 3;
+  fill: none;
+}
+header h1{  
+  color:blue;
+  background-color: black;
+  text-align: center;
+  margin-top:-10px;
+
+  
+}
+a:hover{
+  color: white;
+}
+#head{
+  float: center;
+  max-width: 100%;
+  padding: 1em;
+}
+#h ul,li {
+  list-style-type: none;
+  padding: 0;
+  font-size: 10px;
+  color:blue;
+    margin-left: 20px;
+    }
